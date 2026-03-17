@@ -100,6 +100,32 @@
     .copy-btn:hover { background: #b35a00; }
     .copy-btn.copied { background: #3a7a3a; }
 
+    /* ── Language tabs ───────────────────────────────────────── */
+    .lang-tabs {
+      display: flex;
+      gap: 0;
+      margin-bottom: 1.25rem;
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1.5px solid #e07b00;
+    }
+    .lang-tab {
+      flex: 1;
+      padding: 0.5rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      background: #fff;
+      color: #b35a00;
+      transition: background 0.15s, color 0.15s;
+    }
+    .lang-tab.active {
+      background: #e07b00;
+      color: #fff;
+    }
+    .lang-tab:not(.active):hover { background: #fdf3e3; }
+
     .platform-buttons {
       display: flex;
       flex-wrap: wrap;
@@ -230,20 +256,27 @@
   <!-- Subscribe card -->
   <div class="subscribe-card">
     <h2>Subscribe to this Calendar</h2>
+
+    <!-- Language selector -->
+    <div class="lang-tabs">
+      <button class="lang-tab active" id="tab-en" onclick="switchLang('en')">English</button>
+      <button class="lang-tab"        id="tab-kn" onclick="switchLang('kn')">ಕನ್ನಡ</button>
+    </div>
+
     <div class="url-box">
       <span id="cal-url">https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics</span>
       <button class="copy-btn" id="copy-btn" onclick="copyUrl()">Copy</button>
     </div>
     <div class="platform-buttons">
-      <a class="platform-btn"
+      <a class="platform-btn" id="btn-apple"
          href="webcal://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
         🍎 Apple Calendar
       </a>
-      <a class="platform-btn"
+      <a class="platform-btn" id="btn-google"
          href="https://calendar.google.com/calendar/r?cid=https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
         📅 Google Calendar
       </a>
-      <a class="platform-btn"
+      <a class="platform-btn" id="btn-outlook"
          href="https://outlook.live.com/calendar/0/addfromweb?url=https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
         📆 Outlook
       </a>
@@ -324,6 +357,21 @@
 </footer>
 
 <script>
+  const URLS = {
+    en: "https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics",
+    kn: "https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27_kn.ics",
+  };
+
+  function switchLang(lang) {
+    const url = URLS[lang];
+    document.getElementById('cal-url').textContent = url;
+    document.getElementById('btn-apple').href   = url.replace('https://', 'webcal://');
+    document.getElementById('btn-google').href  = 'https://calendar.google.com/calendar/r?cid=' + url;
+    document.getElementById('btn-outlook').href = 'https://outlook.live.com/calendar/0/addfromweb?url=' + url;
+    document.getElementById('tab-en').classList.toggle('active', lang === 'en');
+    document.getElementById('tab-kn').classList.toggle('active', lang === 'kn');
+  }
+
   function copyUrl() {
     const url = document.getElementById('cal-url').textContent;
     navigator.clipboard.writeText(url).then(() => {
