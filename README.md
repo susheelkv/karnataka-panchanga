@@ -6,7 +6,7 @@ Shareable iCal calendars derived from traditional Karnataka panchanga PDFs.
 
 | Source | Samvatsara | Subscribe |
 |--------|-----------|-----------|
-| Ontikoppal Panchanga Mandira, Mysore | Sri Parabhava Nama (2026–27) | [Landing page](https://susheelkv.github.io/mysore-ontikoppal-panchanga/) |
+| Ontikoppal Panchanga Mandira, Mysore | Sri Parabhava Nama (2026–27) | [Landing page](https://susheelkv.github.io/karnataka-panchanga/) |
 | Vyasaraja Mutt Panchanga | Sri Parabhava Nama (2026–27) | *(coming soon)* |
 
 ## Repository structure
