@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mysore Panchanga 2026-27 · Ontikoppal</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #fdf8f0;
+      color: #2d1f0e;
+      min-height: 100vh;
+    }
+
+    /* ── Header ─────────────────────────────────────────────── */
+    header {
+      background: linear-gradient(135deg, #b35a00 0%, #e07b00 60%, #c4641a 100%);
+      color: #fff;
+      text-align: center;
+      padding: 3rem 1.5rem 2.5rem;
+    }
+    header .subtitle {
+      font-size: 0.9rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      opacity: 0.85;
+      margin-bottom: 0.6rem;
+    }
+    header h1 {
+      font-size: clamp(1.6rem, 5vw, 2.6rem);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 0.5rem;
+    }
+    header .kannada {
+      font-size: clamp(1rem, 3vw, 1.4rem);
+      opacity: 0.9;
+      margin-bottom: 1rem;
+    }
+    header .meta {
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    /* ── Main content ────────────────────────────────────────── */
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+
+    /* ── Subscribe card ──────────────────────────────────────── */
+    .subscribe-card {
+      background: #fff;
+      border: 2px solid #e07b00;
+      border-radius: 12px;
+      padding: 1.75rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .subscribe-card h2 {
+      font-size: 1.1rem;
+      color: #b35a00;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .url-box {
+      display: flex;
+      align-items: center;
+      background: #fdf3e3;
+      border: 1px solid #e0c080;
+      border-radius: 8px;
+      padding: 0.6rem 0.8rem;
+      margin-bottom: 1rem;
+      gap: 0.5rem;
+    }
+    .url-box span {
+      flex: 1;
+      font-size: 0.78rem;
+      font-family: ui-monospace, "SF Mono", Menlo, monospace;
+      word-break: break-all;
+      color: #4a3000;
+      text-align: left;
+    }
+    .copy-btn {
+      background: #e07b00;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s;
+    }
+    .copy-btn:hover { background: #b35a00; }
+    .copy-btn.copied { background: #3a7a3a; }
+
+    .platform-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      justify-content: center;
+      margin-top: 0.25rem;
+    }
+    .platform-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: #fff;
+      border: 1.5px solid #ccc;
+      border-radius: 20px;
+      padding: 0.4rem 1rem;
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: #2d1f0e;
+      cursor: pointer;
+      text-decoration: none;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .platform-btn:hover {
+      border-color: #e07b00;
+      background: #fdf3e3;
+    }
+
+    /* ── Info sections ───────────────────────────────────────── */
+    .section { margin-bottom: 2rem; }
+    .section h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #b35a00;
+      border-bottom: 1px solid #e8cfa0;
+      padding-bottom: 0.4rem;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 0.75rem;
+    }
+    .feature-item {
+      background: #fff;
+      border: 1px solid #e8cfa0;
+      border-radius: 8px;
+      padding: 0.85rem;
+      text-align: center;
+    }
+    .feature-item .icon { font-size: 1.5rem; margin-bottom: 0.35rem; }
+    .feature-item .label {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #6b4400;
+    }
+    .feature-item .desc {
+      font-size: 0.72rem;
+      color: #7a6040;
+      margin-top: 0.2rem;
+    }
+
+    .steps ol {
+      padding-left: 0;
+      list-style: none;
+      counter-reset: step;
+    }
+    .steps li {
+      counter-increment: step;
+      display: flex;
+      gap: 0.9rem;
+      margin-bottom: 0.75rem;
+      align-items: flex-start;
+    }
+    .steps li::before {
+      content: counter(step);
+      background: #e07b00;
+      color: #fff;
+      border-radius: 50%;
+      width: 1.5rem;
+      height: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+    .steps li strong { display: block; font-size: 0.9rem; margin-bottom: 0.1rem; }
+    .steps li span { font-size: 0.82rem; color: #5a4020; }
+
+    .source-note {
+      background: #fff8ee;
+      border-left: 3px solid #e07b00;
+      border-radius: 0 8px 8px 0;
+      padding: 0.9rem 1rem;
+      font-size: 0.83rem;
+      color: #5a4020;
+      line-height: 1.6;
+    }
+
+    /* ── Footer ──────────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: #9a7050;
+      padding: 1.5rem;
+      border-top: 1px solid #e8cfa0;
+    }
+    footer a { color: #b35a00; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <p class="subtitle">Karnataka · Ontikoppal Panchanga Mandira, Mysore</p>
+  <h1>Mysore Panchanga 2026–27</h1>
+  <p class="kannada">ಶ್ರೀ ಪರಾಭವನಾಮ ಸಂವತ್ಸರ</p>
+  <p class="meta">19 March 2026 &nbsp;–&nbsp; 6 April 2027 &nbsp;·&nbsp; 358 days &nbsp;·&nbsp; Free to subscribe</p>
+</header>
+
+<main>
+
+  <!-- Subscribe card -->
+  <div class="subscribe-card">
+    <h2>Subscribe to this Calendar</h2>
+    <div class="url-box">
+      <span id="cal-url">https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics</span>
+      <button class="copy-btn" id="copy-btn" onclick="copyUrl()">Copy</button>
+    </div>
+    <div class="platform-buttons">
+      <a class="platform-btn"
+         href="webcal://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
+        🍎 Apple Calendar
+      </a>
+      <a class="platform-btn"
+         href="https://calendar.google.com/calendar/r?cid=https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
+        📅 Google Calendar
+      </a>
+      <a class="platform-btn"
+         href="https://outlook.live.com/calendar/0/addfromweb?url=https://susheelkv.github.io/mysore-ontikoppal-panchanga/mysore_panchanga_2026_27.ics">
+        📆 Outlook
+      </a>
+    </div>
+  </div>
+
+  <!-- What's in each event -->
+  <div class="section">
+    <h2>What each day shows</h2>
+    <div class="feature-grid">
+      <div class="feature-item">
+        <div class="icon">🌙</div>
+        <div class="label">Thithi</div>
+        <div class="desc">Lunar day (Pratipada → Purnima / Amavasya)</div>
+      </div>
+      <div class="feature-item">
+        <div class="icon">☀️</div>
+        <div class="label">Paksha</div>
+        <div class="desc">Shukla (waxing) or Krishna (waning) fortnight</div>
+      </div>
+      <div class="feature-item">
+        <div class="icon">📅</div>
+        <div class="label">Maasa</div>
+        <div class="desc">Hindu lunar month (Chaitra → Phalguna)</div>
+      </div>
+      <div class="feature-item">
+        <div class="icon">🌿</div>
+        <div class="label">Ruthu</div>
+        <div class="desc">Season (Vasantha, Grishma, Varsha…)</div>
+      </div>
+      <div class="feature-item">
+        <div class="icon">🪔</div>
+        <div class="label">Festivals</div>
+        <div class="desc">Ugadi, Ganesha Chaturthi, Dasara, Deepawali…</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- How to subscribe -->
+  <div class="section">
+    <h2>How to subscribe</h2>
+    <div class="steps">
+      <ol>
+        <li>
+          <strong>Apple Calendar (Mac / iPhone / iPad)</strong>
+          <span>Click the 🍎 Apple Calendar button above, or go to File → New Calendar Subscription and paste the URL.</span>
+        </li>
+        <li>
+          <strong>Google Calendar</strong>
+          <span>Click the 📅 Google Calendar button above, or go to Settings → Add calendar → From URL and paste the URL.</span>
+        </li>
+        <li>
+          <strong>Outlook (web or desktop)</strong>
+          <span>Click the 📆 Outlook button above, or go to Add calendar → Subscribe from web and paste the URL.</span>
+        </li>
+      </ol>
+    </div>
+  </div>
+
+  <!-- Source note -->
+  <div class="section">
+    <h2>Source</h2>
+    <p class="source-note">
+      This calendar is derived from the printed <strong>Ontikoppal Panchanga</strong> published by
+      Ontikoppal Panchanga Mandira, Mysore — one of Karnataka's most respected traditional panchanga publishers.
+      The PDF was processed using OCR to extract thithi, paksha, maasa, and festival data for each day.
+      Coverage: 358 of 384 days (93%).
+    </p>
+  </div>
+
+</main>
+
+<footer>
+  Built with Python · Source on
+  <a href="https://github.com/susheelkv/mysore-ontikoppal-panchanga" target="_blank">GitHub</a>
+  &nbsp;·&nbsp;
+  Data: Ontikoppal Panchanga Mandira, Mysore
+</footer>
+
+<script>
+  function copyUrl() {
+    const url = document.getElementById('cal-url').textContent;
+    navigator.clipboard.writeText(url).then(() => {
+      const btn = document.getElementById('copy-btn');
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.textContent = 'Copy';
+        btn.classList.remove('copied');
+      }, 2000);
+    });
+  }
+</script>
+
+</body>
+</html>
