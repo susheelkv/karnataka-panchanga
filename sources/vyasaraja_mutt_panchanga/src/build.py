@@ -1,26 +1,30 @@
 """
-build_csv.py
-------------
-Orchestrate the full pipeline:
+build.py
+--------
+Orchestrate the full pipeline for Vyasaraja Mutt Panchanga:
     PDF → OCR text files → parsed records → CSV
 
-Usage:
-    python src/build_csv.py \
-        --pdf "path/to/panchanga.pdf" \
-        --output data/processed/karnataka_panchanga_2026.csv
+Usage (from sources/vyasaraja_mutt_panchanga/):
+    python src/build.py \
+        --pdf "../../Vyasaraja Mutt Calender 2026-27.pdf" \
+        --output data/processed/vyasaraja_mutt_panchanga_2026_27.csv
 
 Options:
-    --start-page  First PDF page to process (default: 18)
-    --end-page    Last PDF page to process (default: 116)
+    --start-page  First PDF page to process (default: 1)
+    --end-page    Last PDF page to process (update once PDF is examined)
     --skip-ocr    Skip OCR step (reuse existing data/ocr/ files)
 """
 
 import argparse
 import csv
+import sys
 from pathlib import Path
 
-from extract import extract
-from parse import parse_all
+# shared/ lives two levels up from this file's src/ directory
+sys.path.insert(0, str(Path(__file__).parent.parent.parent.parent / "shared"))
+
+from extract import extract  # noqa: E402
+from parse import parse_all  # noqa: E402
 
 CSV_FIELDS = ["date", "masa", "paksha", "thithi", "thithi_num", "special_day"]
 
@@ -36,16 +40,18 @@ def write_csv(records: list[dict], output_path: Path) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description="Build Panchanga CSV from PDF")
-    parser.add_argument("--pdf", required=True, help="Path to the Panchanga PDF")
-    parser.add_argument("--output", default="data/processed/karnataka_panchanga_2026.csv")
-    parser.add_argument("--start-page", type=int, default=18)
-    parser.add_argument("--end-page",   type=int, default=116)
+    parser.add_argument("--pdf", required=True, help="Path to the Vyasaraja Mutt Panchanga PDF")
+    parser.add_argument("--output", default="data/processed/vyasaraja_mutt_panchanga_2026_27.csv")
+    parser.add_argument("--start-page", type=int, default=1,
+                        help="Update after examining the PDF for the first calendar page")
+    parser.add_argument("--end-page",   type=int, default=50,
+                        help="Update after examining the PDF for the last calendar page")
     parser.add_argument("--ocr-dir",    default="data/ocr")
     parser.add_argument("--skip-ocr",   action="store_true",
                         help="Skip OCR and use existing text files in --ocr-dir")
     args = parser.parse_args()
 
-    ocr_dir    = Path(args.ocr_dir)
+    ocr_dir     = Path(args.ocr_dir)
     output_path = Path(args.output)
 
     # Step 1: OCR
@@ -63,7 +69,6 @@ def main():
     records = parse_all(ocr_dir)
     write_csv(records, output_path)
 
-    # Quick summary
     print("\nSample rows:")
     for r in records[:5]:
         print(f"  {r['date']}  {r['paksha']:8s}  {r['thithi']:12s}  {r['special_day']}")

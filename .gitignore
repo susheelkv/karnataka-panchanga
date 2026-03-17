@@ -10,7 +10,7 @@ venv/
 *.egg-info/
 
 # OCR intermediate files (large, regenerable from PDF)
-panchanga/data/ocr/
+sources/*/data/ocr/
 
 # OS
 .DS_Store
