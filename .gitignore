@@ -1,0 +1,16 @@
+# Source PDF (large, copyrighted — do not commit)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OCR intermediate files (large, regenerable from PDF)
+panchanga/data/ocr/
+
+# OS
+.DS_Store
