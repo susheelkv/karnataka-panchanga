@@ -1466,39 +1466,42 @@ DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nShravana Maasa\nShukl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Purnima
+SUMMARY:Sri Varamahalakshmi Vrata & Yajuraveda Upakarma  |  Shukla · Purn
+ ima
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
 UID:2026-08-28-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nShravana Maasa\nShukl
- a Paksha\, Purnima (15)
+ a Paksha\, Purnima (15)\nFestival: Sri Varamahalakshmi Vrata & Yajuraveda 
+ Upakarma
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Purvabadrapada
+SUMMARY: Sri Raghavendra Swamy Aradhana(1)  |  Krishna · Purvabadrapada
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
 UID:2026-08-29-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nShravana Maasa\nKrish
- na Paksha\, Purvabadrapada (1)
+ na Paksha\, Purvabadrapada (1)\nFestival:  Sri Raghavendra Swamy Aradhana(
+ 1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Dvitiya
+SUMMARY:Sri Raghavendra Swamy Aradhana(2)  |  Krishna · Dvitiya
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
 UID:2026-08-30-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nShravana Maasa\nKrish
- na Paksha\, Dvitiya (2)
+ na Paksha\, Dvitiya (2)\nFestival: Sri Raghavendra Swamy Aradhana(2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Tritiya
+SUMMARY:Sri Raghavendra Swamy Aradhana(3)  |  Krishna · Tritiya
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
 UID:2026-08-31-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nShravana Maasa\nKrish
- na Paksha\, Tritiya (3)
+ na Paksha\, Tritiya (3)\nFestival: Sri Raghavendra Swamy Aradhana(3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1619,12 +1622,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nBhadrapada Maasa\nShu
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Tritiya
+SUMMARY:Gowri & Ganapathi Habba  |  Shukla · Tritiya
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260914
 UID:2026-09-14-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nBhadrapada Maasa\nShu
- kla Paksha\, Tritiya (3)
+ kla Paksha\, Tritiya (3)\nFestival: Gowri & Ganapathi Habba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1673,12 +1676,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nBhadrapada Maasa\nShu
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Navami
+SUMMARY:Sri Jaganatha Thirthara Aradhana  |  Shukla · Navami
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
 UID:2026-09-20-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nBhadrapada Maasa\nShu
- kla Paksha\, Navami (9)
+ kla Paksha\, Navami (9)\nFestival: Sri Jaganatha Thirthara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1862,12 +1865,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nVarsha Ruthu\nBhadrapada Maasa\nKri
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Pratipada
+SUMMARY:Start of Navaratri  |  Shukla · Pratipada
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261011
 UID:2026-10-11-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nShuk
- la Paksha\, Pratipada (1)
+ la Paksha\, Pratipada (1)\nFestival: Start of Navaratri
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1925,12 +1928,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nShuk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Ashtami
+SUMMARY:Saraswati Puja  |  Shukla · Ashtami
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
 UID:2026-10-18-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nShuk
- la Paksha\, Ashtami (8)
+ la Paksha\, Ashtami (8)\nFestival: Saraswati Puja
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1943,12 +1946,13 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nShuk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Navami
+SUMMARY:Mahanavami (Aayudha Puja) & Vijayadashami  |  Shukla · Navami
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 UID:2026-10-20-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nShuk
- la Paksha\, Navami (9)
+ la Paksha\, Navami (9)\nFestival: Mahanavami (Aayudha Puja) & Vijayadasham
+ i
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2114,12 +2118,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nKris
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Chaturdashi
+SUMMARY:Naraka Chaturdashi  |  Krishna · Chaturdashi
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
 UID:2026-11-08-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nKris
- hna Paksha\, Chaturdashi (14)
+ hna Paksha\, Chaturdashi (14)\nFestival: Naraka Chaturdashi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2132,12 +2136,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nAshvayuja Maasa\nKris
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Pratipada
+SUMMARY:Bali Padyami  |  Shukla · Pratipada
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
 UID:2026-11-10-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Pratipada (1)
+ a Paksha\, Pratipada (1)\nFestival: Bali Padyami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2213,12 +2217,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Dashami
+SUMMARY:Sri Vijayadasara Aradhana  |  Shukla · Dashami
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261119
 UID:2026-11-19-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Dashami (10)
+ a Paksha\, Dashami (10)\nFestival: Sri Vijayadasara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2240,12 +2244,30 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepawali  |  Shukla · Purnima
+SUMMARY:Shukla · Trayodashi
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261122
 UID:2026-11-22-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Purnima (15)\nFestival: Deepawali
+ a Paksha\, Trayodashi (13)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Chaturdashi
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261123
+UID:2026-11-23-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
+ a Paksha\, Chaturdashi (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Vyasa Purnima  |  Shukla · Purnima
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+UID:2026-11-24-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
+ a Paksha\, Purnima (15)\nFestival: Sri Vyasa Purnima
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2267,39 +2289,39 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Tritiya
+SUMMARY:Sri Kanakasara Aradhana  |  Krishna · Tritiya
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261127
 UID:2026-11-27-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Tritiya (3)
+ na Paksha\, Tritiya (3)\nFestival: Sri Kanakasara Aradhana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Chaturthi
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261128
+UID:2026-11-28-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
+ na Paksha\, Chaturthi (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Panchami
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261128
-UID:2026-11-28-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261129
+UID:2026-11-29-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
  na Paksha\, Panchami (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Shashti
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261129
-UID:2026-11-29-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Shashti (6)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Krishna · Saptami
+SUMMARY:Krishna · Shashti/Saptami
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261130
 UID:2026-11-30-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Saptami (7)
+ na Paksha\, Shashti/Saptami (6/7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2357,21 +2379,21 @@ DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Chaturdashi
+SUMMARY:Sri Padmanabha Thirthara Aradhana  |  Krishna · Chaturdashi
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261207
 UID:2026-12-07-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Chaturdashi (14)
+ na Paksha\, Chaturdashi (14)\nFestival: Sri Padmanabha Thirthara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepawali\, Karthika Deepa  |  Krishna · Amavasya
+SUMMARY:Krishna · Amavasya
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261208
 UID:2026-12-08-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Amavasya (15)\nFestival: Deepawali\, Karthika Deepa
+ na Paksha\, Amavasya (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2379,71 +2401,71 @@ SUMMARY:Shukla · Pratipada
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261209
 UID:2026-12-09-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Pratipada (1)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Pratipada (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Pratipada
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+UID:2026-12-10-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Pratipada (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Dvitiya
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261210
-UID:2026-12-10-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Dvitiya (2)
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261211
+UID:2026-12-11-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Dvitiya (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Tritiya
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261211
-UID:2026-12-11-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Tritiya (3)
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261212
+UID:2026-12-12-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Tritiya (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Chaturthi
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261212
-UID:2026-12-12-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Chaturthi (4)
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261213
+UID:2026-12-13-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Chaturthi (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Naga Panchami  |  Shukla · Panchami
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261214
+UID:2026-12-14-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Panchami (5)\nFestival: Naga Panchami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Shashti
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261213
-UID:2026-12-13-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Shashti (6)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Saptami
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261214
-UID:2026-12-14-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Saptami (7)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Tritiya
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261215
 UID:2026-12-15-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Tritiya (3)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Shashti (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Saptami
+SUMMARY:Start of Dhanurmasa  |  Shukla · Saptami
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261216
 UID:2026-12-16-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Saptami (7)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Saptami (7)\nFestival: Start of Dhanurmasa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2451,8 +2473,8 @@ SUMMARY:Shukla · Ashtami
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261217
 UID:2026-12-17-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Ashtami (8)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2460,251 +2482,260 @@ SUMMARY:Shukla · Navami
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261218
 UID:2026-12-18-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Navami (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Ashtami
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261219
-UID:2026-12-19-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Ashtami (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Navami
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261220
-UID:2026-12-20-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Navami (9)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Navami (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Dashami
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261221
-UID:2026-12-21-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Dashami (10)
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261219
+UID:2026-12-19-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Dashami (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Ekadashi
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261222
-UID:2026-12-22-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Ekadashi (11)
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261220
+UID:2026-12-20-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Dvadashi
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261223
-UID:2026-12-23-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Dvadashi (12)
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261221
+UID:2026-12-21-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Dvadashi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Trayodashi
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261222
+UID:2026-12-22-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Trayodashi (13)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Chaturdashi
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261223
+UID:2026-12-23-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla Paksha\, Chaturdashi (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla/Krishna · Purnima/Pratipada
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261224
 UID:2026-12-24-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Trayodashi (13)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nSh
+ ukla/Krishna Paksha\, Purnima/Pratipada (15/1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Purnima
+SUMMARY:Krishna · Dvitiya
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261225
 UID:2026-12-25-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nShukl
- a Paksha\, Purnima (15)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
+ ishna Paksha\, Dvitiya (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Pratipada
+SUMMARY:Krishna · Tritiya
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261226
 UID:2026-12-26-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nSharad Ruthu\nKarthika Maasa\nKrish
- na Paksha\, Pratipada (1)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
+ ishna Paksha\, Tritiya (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Chaturthi
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261227
+UID:2026-12-27-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
+ ishna Paksha\, Chaturthi (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Panchami
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261227
-UID:2026-12-27-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261228
+UID:2026-12-28-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Panchami (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Shashti
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261228
-UID:2026-12-28-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261229
+UID:2026-12-29-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Shashti (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Saptami
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261229
-UID:2026-12-29-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261230
+UID:2026-12-30-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Saptami (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ashtami
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261230
-UID:2026-12-30-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+UID:2026-12-31-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Navami
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20261231
-UID:2026-12-31-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270101
+UID:2027-01-01-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Navami (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Dashami
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270101
-UID:2027-01-01-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270102
+UID:2027-01-02-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Dashami (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ekadashi
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270102
-UID:2027-01-02-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270103
+UID:2027-01-03-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Dvadashi
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270103
-UID:2027-01-03-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270104
+UID:2027-01-04-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Dvadashi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Trayodashi
-DTSTART;VALUE=DATE:20270104
-DTEND;VALUE=DATE:20270104
-UID:2027-01-04-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270105
+UID:2027-01-05-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Trayodashi (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Chaturdashi
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270105
-UID:2027-01-05-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270106
+UID:2027-01-06-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Chaturdashi (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Amavasya
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270106
-UID:2027-01-06-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270107
+UID:2027-01-07-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nMargashira Maasa\nKr
  ishna Paksha\, Amavasya (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Dvitiya
+SUMMARY:Shukla · Pratipada
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270108
 UID:2027-01-08-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Dvitiya (2)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Pratipada (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Jagannatha Thirthara Aradhana  |  Shukla · Dvitiya
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270109
+UID:2027-01-09-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Dvitiya (2)\nFestival: Sri Jagannatha Thirthara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Tritiya
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270109
-UID:2027-01-09-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Tritiya (3)
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270110
+UID:2027-01-10-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Tritiya (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Srinatha Thirthara Aradhana  |  Shukla · Chaturthi
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270111
+UID:2027-01-11-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Chaturthi (4)\nFestival: Sri Srinatha Thirthara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Chaturthi
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270110
-UID:2027-01-10-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Chaturthi (4)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Panchami
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270111
-UID:2027-01-11-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Panchami (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Shashti
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270112
 UID:2027-01-12-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Shashti (6)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Chaturthi (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Saptami
+SUMMARY:Sri Lakshmivallabha Thirthara Aradhana  |  Shukla · Panchami
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270113
 UID:2027-01-13-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Saptami (7)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Panchami (5)\nFestival: Sri Lakshmivallabha Thirthara Aradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Ashtami
+SUMMARY:Bhogi Habba  |  Shukla · Shashti
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270114
 UID:2027-01-14-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Ashtami (8)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Shashti (6)\nFestival: Bhogi Habba
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Dvitiya
+SUMMARY:Makara Sankranti  |  Shukla · Saptami
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270115
 UID:2027-01-15-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Dvitiya (2)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Saptami (7)\nFestival: Makara Sankranti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2712,168 +2743,195 @@ SUMMARY:Shukla · Ashtami
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270116
 UID:2027-01-16-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Ashtami (8)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Navami
+SUMMARY:Shukla · Navami/Dashami
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270117
 UID:2027-01-17-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Navami (9)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Navami/Dashami (9/10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Dashami
+SUMMARY:Shukla · Ekadashi
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270118
 UID:2027-01-18-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Dashami (10)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Navami
+SUMMARY:Shukla · Dvadashi
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270119
 UID:2027-01-19-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Navami (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Dashami
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270120
-UID:2027-01-20-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Dashami (10)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Pratipada
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270121
-UID:2027-01-21-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Pratipada (1)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sankranti  |  Shukla · Dvadashi
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270122
-UID:2027-01-22-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Dvadashi (12)\nFestival: Sankranti
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Dvadashi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Trayodashi
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270123
-UID:2027-01-23-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Trayodashi (13)
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270120
+UID:2027-01-20-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Trayodashi (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Chaturdashi
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270124
-UID:2027-01-24-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Chaturdashi (14)
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270121
+UID:2027-01-21-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Chaturdashi (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Purnima
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270122
+UID:2027-01-22-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nShukla
+  Paksha\, Purnima (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Pratipada
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270123
+UID:2027-01-23-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Pratipada (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Dvitiya
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270124
+UID:2027-01-24-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Dvitiya (2)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Tritiya
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270125
 UID:2027-01-25-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\n Ruthu\nUnknown Maasa\nShukla Paksh
- a\, Purnima (15)
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Tritiya (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Chaturthi
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270126
+UID:2027-01-26-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Chaturthi (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Panchami
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270127
+UID:2027-01-27-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Panchami (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Shashti
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270126
-UID:2027-01-26-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270128
+UID:2027-01-28-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Shashti (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Saptami
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270127
-UID:2027-01-27-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270129
+UID:2027-01-29-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Saptami (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ashtami
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270128
-UID:2027-01-28-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270130
+UID:2027-01-30-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Navami
-DTSTART;VALUE=DATE:20270129
-DTEND;VALUE=DATE:20270129
-UID:2027-01-29-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270131
+UID:2027-01-31-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Navami (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Dashami
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270130
-UID:2027-01-30-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270201
+UID:2027-02-01-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Dashami (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ekadashi
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270131
-UID:2027-01-31-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270202
+UID:2027-02-02-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krishna · Dvadashi
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270203
+UID:2027-02-03-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
+ a Paksha\, Dvadashi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Krishna · Trayodashi
-DTSTART;VALUE=DATE:20270201
-DTEND;VALUE=DATE:20270201
-UID:2027-02-01-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270204
+UID:2027-02-04-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Trayodashi (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Chaturdashi
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270202
-UID:2027-02-02-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270205
+UID:2027-02-05-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Chaturdashi (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Amavasya
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270203
-UID:2027-02-03-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270206
+UID:2027-02-06-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nHemanta Ruthu\nPushya Maasa\nKrishn
  a Paksha\, Amavasya (15)
 TRANSP:TRANSPARENT
@@ -2915,12 +2973,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Panchami
+SUMMARY:Vasanta Panchami  |  Shukla · Panchami
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270211
 UID:2027-02-11-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Panchami (5)
+  Paksha\, Panchami (5)\nFestival: Vasanta Panchami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2933,12 +2991,12 @@ DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Saptami
+SUMMARY:Ratha Saptami  |  Shukla · Saptami
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270213
 UID:2027-02-13-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Saptami (7)
+  Paksha\, Saptami (7)\nFestival: Ratha Saptami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2951,93 +3009,93 @@ DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Navami
+SUMMARY:Sri Madhwa Navami  |  Shukla · Navami
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270215
 UID:2027-02-15-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Navami (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Ashtami
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270216
-UID:2027-02-16-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Ashtami (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Navami
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270217
-UID:2027-02-17-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Navami (9)
+  Paksha\, Navami (9)\nFestival: Sri Madhwa Navami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Dashami
-DTSTART;VALUE=DATE:20270218
-DTEND;VALUE=DATE:20270218
-UID:2027-02-18-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270216
+UID:2027-02-16-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
   Paksha\, Dashami (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Ekadashi
-DTSTART;VALUE=DATE:20270219
-DTEND;VALUE=DATE:20270219
-UID:2027-02-19-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270217
+UID:2027-02-17-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
   Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Dvadashi
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270220
-UID:2027-02-20-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270218
+UID:2027-02-18-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
   Paksha\, Dvadashi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Chaturdashi
+SUMMARY:Shukla · Trayodashi
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270219
+UID:2027-02-19-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
+  Paksha\, Trayodashi (13)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Chaturdashi/Purnima
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270220
+UID:2027-02-20-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
+  Paksha\, Chaturdashi/Purnima (14/15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Pratipada
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270221
 UID:2027-02-21-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Chaturdashi (14)
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Pratipada (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ratha Saptami  |  Shukla · Trayodashi
+SUMMARY:Krishna · Dvitiya
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270222
 UID:2027-02-22-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Trayodashi (13)\nFestival: Ratha Saptami
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Dvitiya (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Purnima
+SUMMARY:Krishna · Tritiya
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270223
 UID:2027-02-23-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Purnima (15)
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Tritiya (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Saptami
+SUMMARY:Krishna · Chaturthi
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270224
 UID:2027-02-24-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
- a Paksha\, Saptami (7)
+ a Paksha\, Chaturthi (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3050,300 +3108,373 @@ DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Saptami
+SUMMARY:Krishna · Shashti
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270226
 UID:2027-02-26-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Shashti (6)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Saptami
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270227
+UID:2027-02-27-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Saptami (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ashtami
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270227
-UID:2027-02-27-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270228
+UID:2027-02-28-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Navami
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270228
-UID:2027-02-28-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270301
+UID:2027-03-01-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Navami (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Dashami
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270301
-UID:2027-03-01-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270302
+UID:2027-03-02-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Dashami (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ekadashi
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270302
-UID:2027-03-02-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270303
+UID:2027-03-03-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Trayodashi
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270303
-UID:2027-03-03-panchanga-en@ganesha-project
+SUMMARY:Krishna · Ekadashi
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270304
+UID:2027-03-04-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
- a Paksha\, Trayodashi (13)
+ a Paksha\, Ekadashi (11)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krishna · Dvadashi
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270305
+UID:2027-03-05-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Dvadashi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maha Shivaratri  |  Krishna · Trayodashi
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270306
+UID:2027-03-06-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
+ a Paksha\, Trayodashi (13)\nFestival: Maha Shivaratri
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Chaturdashi
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270304
-UID:2027-03-04-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270307
+UID:2027-03-07-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
  a Paksha\, Chaturdashi (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepawali  |  Krishna · Amavasya
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270305
-UID:2027-03-05-panchanga-en@ganesha-project
+SUMMARY:Krishna · Amavasya
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270308
+UID:2027-03-08-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nKrishn
- a Paksha\, Amavasya (15)\nFestival: Deepawali
+ a Paksha\, Amavasya (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Tritiya
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270306
-UID:2027-03-06-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nMagha Maasa\nShukla
-  Paksha\, Tritiya (3)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shukla · Dvitiya
+SUMMARY:Shukla · Pratipada
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270309
 UID:2027-03-09-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
- kla Paksha\, Dvitiya (2)
+ kla Paksha\, Pratipada (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shukla · Chaturdashi
+SUMMARY:Sri Guru Sarvabhouma Pattabisheka  |  Shukla · Dvitiya
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
 UID:2027-03-10-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
- kla Paksha\, Chaturdashi (14)
+ kla Paksha\, Dvitiya (2)\nFestival: Sri Guru Sarvabhouma Pattabisheka
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Guru Sarvabhouma Vardhanti  |  Shukla · Tritiya
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270311
+UID:2027-03-11-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Tritiya (3)\nFestival: Sri Guru Sarvabhouma Vardhanti
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Chaturthi
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270312
+UID:2027-03-12-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Chaturthi (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Panchami
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270313
+UID:2027-03-13-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Panchami (5)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Shashti
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270314
+UID:2027-03-14-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Shashti (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shukla · Saptami
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270311
-UID:2027-03-11-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270315
+UID:2027-03-15-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
  kla Paksha\, Saptami (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shukla · Ashtami/Navami
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270316
+UID:2027-03-16-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Ashtami/Navami (8/9)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Dashami
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270317
+UID:2027-03-17-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Dashami (10)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Ekadashi
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270318
+UID:2027-03-18-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Ekadashi (11)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Dvadashi
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270319
+UID:2027-03-19-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Dvadashi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shukla · Trayodashi
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270320
+UID:2027-03-20-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Trayodashi (13)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devarayana Durga (Karigiri) Rathotsava  |  Shukla · Chaturdashi
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270321
+UID:2027-03-21-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
+ kla Paksha\, Chaturdashi (14)\nFestival: Devarayana Durga (Karigiri) Ratho
+ tsava
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shukla · Purnima
-DTSTART;VALUE=DATE:20270312
-DTEND;VALUE=DATE:20270312
-UID:2027-03-12-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270322
+UID:2027-03-22-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nShu
  kla Paksha\, Purnima (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Ashtami
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270313
-UID:2027-03-13-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Ashtami (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holi  |  Krishna · Navami
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270314
-UID:2027-03-14-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Navami (9)\nFestival: Holi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Krishna · Dashami
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270315
-UID:2027-03-15-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Dashami (10)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holi  |  Krishna · Tritiya
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270316
-UID:2027-03-16-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Tritiya (3)\nFestival: Holi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Krishna · Ekadashi
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270317
-UID:2027-03-17-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Ekadashi (11)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Krishna · Dvadashi
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270318
-UID:2027-03-18-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Dvadashi (12)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Krishna · Pratipada
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270319
-UID:2027-03-19-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270323
+UID:2027-03-23-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Pratipada (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holi  |  Krishna · Chaturdashi
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270320
-UID:2027-03-20-panchanga-en@ganesha-project
+SUMMARY:Krishna · Dvitiya
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270324
+UID:2027-03-24-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Chaturdashi (14)\nFestival: Holi
+ shna Paksha\, Dvitiya (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Amavasya
-DTSTART;VALUE=DATE:20270321
-DTEND;VALUE=DATE:20270321
-UID:2027-03-21-panchanga-en@ganesha-project
+SUMMARY:Sri Vyasaraja Aradhana  |  Krishna · Tritiya
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270325
+UID:2027-03-25-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Amavasya (15)
+ shna Paksha\, Tritiya (3)\nFestival: Sri Vyasaraja Aradhana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Vyasaraja Madhya Aradhana  |  Krishna · Chaturthi
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270326
+UID:2027-03-26-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
+ shna Paksha\, Chaturthi (4)\nFestival: Sri Vyasaraja Madhya Aradhana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sri Vyasaraja UttaraAradhana  |  Krishna · Panchami
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270327
+UID:2027-03-27-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
+ shna Paksha\, Panchami (5)\nFestival: Sri Vyasaraja UttaraAradhana
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Shashti
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270323
-UID:2027-03-23-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270328
+UID:2027-03-28-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Shashti (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Saptami
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270324
-UID:2027-03-24-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270329
+UID:2027-03-29-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Saptami (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Ashtami
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270325
-UID:2027-03-25-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270330
+UID:2027-03-30-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Ashtami (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Navami
-DTSTART;VALUE=DATE:20270326
-DTEND;VALUE=DATE:20270326
-UID:2027-03-26-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270401
+UID:2027-04-01-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Navami (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Krishna · Dashami
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270401
+UID:2027-04-01-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
+ shna Paksha\, Dashami (10)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Krishna · Ekadashi
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270327
-UID:2027-03-27-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270402
+UID:2027-04-02-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Ekadashi (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Dvadashi
-DTSTART;VALUE=DATE:20270328
-DTEND;VALUE=DATE:20270328
-UID:2027-03-28-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270402
+UID:2027-04-02-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Dvadashi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Dashami
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270329
-UID:2027-03-29-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Dashami (10)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Krishna · Trayodashi
-DTSTART;VALUE=DATE:20270330
-DTEND;VALUE=DATE:20270330
-UID:2027-03-30-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270403
+UID:2027-04-03-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Trayodashi (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krishna · Chaturdashi
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270331
-UID:2027-03-31-panchanga-en@ganesha-project
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270404
+UID:2027-04-04-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
  shna Paksha\, Chaturdashi (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Tritiya
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270401
-UID:2027-04-01-panchanga-en@ganesha-project
+SUMMARY:Krishna · Amavasya
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270405
+UID:2027-04-05-panchanga-en@ganesha-project
 DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Tritiya (3)
+ shna Paksha\, Amavasya (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna · Pratipada
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270402
-UID:2027-04-02-panchanga-en@ganesha-project
-DESCRIPTION:Parabhava Nama Samvatsara\nShishira Ruthu\nPhalguna Maasa\nKri
- shna Paksha\, Pratipada (1)
+SUMMARY:Shukla · Pratipada
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270406
+UID:2027-04-06-panchanga-en@ganesha-project
+DESCRIPTION:Parabhava Nama Samvatsara\nVasantha Ruthu\nChaitra Maasa\nShuk
+ la Paksha\, Pratipada (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

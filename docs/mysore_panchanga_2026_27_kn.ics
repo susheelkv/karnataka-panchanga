@@ -81,91 +81,101 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ashoka Ashtami  |  ಶುಕ್ಲ · ಅಷ್ಟಮಿ
+SUMMARY:Ashoka Ashtami\, Kuruba Jayanti  |  ಶುಕ್ಲ · ಅಷ್
+ ಟಮಿ
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260326
 UID:2026-03-26-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಅ
- ಷ್ಟಮಿ (8)\nಹಬ್ಬ: Ashoka Ashtami
+ ಷ್ಟಮಿ (8)\nಹಬ್ಬ: Ashoka Ashtami\, Kuruba Jayanti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rama Navami  |  ಶುಕ್ಲ · ನವಮಿ
+SUMMARY:Sri Rama Navami  |  ಶುಕ್ಲ · ನವಮಿ
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260327
 UID:2026-03-27-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ನ
- ವಮಿ (9)\nಹಬ್ಬ: Rama Navami
+ ವಮಿ (9)\nಹಬ್ಬ: Sri Rama Navami
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mahavir Jayanti  |  ಶುಕ್ಲ · ಏಕಾದಶಿ
+SUMMARY:Mahavir Jayanti  |  ಶುಕ್ಲ · ದಶಮಿ
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260328
 UID:2026-03-28-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಏ
- ಕಾದಶಿ (11)\nಹಬ್ಬ: Mahavir Jayanti
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
+ ಶಮಿ (10)\nಹಬ್ಬ: Mahavir Jayanti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260329
 UID:2026-03-29-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
- ್ವಾದಶಿ (12)
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಏ
+ ಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bengaluru Karaga  |  ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
+SUMMARY:Bengaluru Karaga  |  ಶುಕ್ಲ · ದ್ವಾದಶಿ
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260330
 UID:2026-03-30-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತ
- ್ರಯೋದಶಿ (13)\nಹಬ್ಬ: Bengaluru Karaga
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
+ ್ವಾದಶಿ (12)\nಹಬ್ಬ: Bengaluru Karaga
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mahavir Jayanti  |  ಶುಕ್ಲ · ಚತುರ್ದಶಿ
+SUMMARY:Mahavir Jayanti  |  ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260331
 UID:2026-03-31-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚ
- ತುರ್ದಶಿ (14)\nಹಬ್ಬ: Mahavir Jayanti
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತ
+ ್ರಯೋದಶಿ (13)\nಹಬ್ಬ: Mahavir Jayanti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rama Navami\, Bengaluru Karaga  |  ಶುಕ್ಲ · ಪೂರ್
- ಣಿಮೆ
+SUMMARY:Bengaluru Karaga  |  ಶುಕ್ಲ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260401
 UID:2026-04-01-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಪ
- ೂರ್ಣಿಮೆ (15)\nಹಬ್ಬ: Rama Navami\, Bengaluru Karaga
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚ
+ ತುರ್ದಶಿ (14)\nಹಬ್ಬ: Bengaluru Karaga
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rama Navami  |  ಕೃಷ್ಣ · ಪ್ರತಿಪದ
+SUMMARY:ಕೃಷ್ಣ · ಪೂರ್ಣಿಮೆ
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260402
 UID:2026-04-02-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
- ್ರತಿಪದ (1)\nಹಬ್ಬ: Rama Navami
+ ೂರ್ಣಿಮೆ (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260403
+UID:2026-04-03-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
+ ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ದ್ವಿತೀಯ
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260403
-UID:2026-04-03-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260404
+UID:2026-04-04-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
  ್ವಿತೀಯ (2)
@@ -173,9 +183,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260404
-UID:2026-04-04-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260405
+UID:2026-04-05-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
  ೃತೀಯ (3)
@@ -183,9 +193,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260405
-UID:2026-04-05-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260406
+UID:2026-04-06-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
  ತುರ್ಥಿ (4)
@@ -193,19 +203,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260406
-UID:2026-04-06-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260407
+UID:2026-04-07-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
  ಂಚಮಿ (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260408
+UID:2026-04-08-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಷ
+ ಷ್ಠಿ (6)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260407
-UID:2026-04-07-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260409
+UID:2026-04-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಸ
  ಪ್ತಮಿ (7)
@@ -213,9 +233,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260408
-UID:2026-04-08-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260410
+UID:2026-04-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅ
  ಷ್ಟಮಿ (8)
@@ -223,29 +243,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260409
-UID:2026-04-09-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260411
+UID:2026-04-11-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ನ
  ವಮಿ (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ugadi  |  ಕೃಷ್ಣ · ದಶಮಿ
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260410
-UID:2026-04-10-panchanga-kn@ganesha-project
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260412
+UID:2026-04-12-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
- ಶಮಿ (10)\nಹಬ್ಬ: Ugadi
+ ಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260411
-UID:2026-04-11-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260413
+UID:2026-04-13-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಏ
  ಕಾದಶಿ (11)
@@ -253,32 +273,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260412
-UID:2026-04-12-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
- ್ವಾದಶಿ (12)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260413
-UID:2026-04-13-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
- ್ರಯೋದಶಿ (13)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260414
 UID:2026-04-14-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
- ತುರ್ದಶಿ (14)
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
+ ್ವಾದಶಿ (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -302,135 +302,163 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
+SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260417
 UID:2026-04-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
- ೃತೀಯ (3)
+ ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅ
+ ಮಾವಾಸ್ಯೆ (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260418
 UID:2026-04-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
- ತುರ್ದಶಿ (14)
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಪ
+ ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bengaluru Karaga  |  ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯ
- ೆ
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260419
 UID:2026-04-19-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nಚೈತ್ರ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅ
- ಮಾವಾಸ್ಯೆ (15)\nಹಬ್ಬ: Bengaluru Karaga
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
+ ್ವಿತೀಯ (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ಚತುರ್ಥಿ
+SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260420
 UID:2026-04-20-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಚತುರ್ಥಿ (4)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತ
+ ೃತೀಯ (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ಪಂಚಮಿ
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260421
 UID:2026-04-21-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಪಂಚಮಿ (5)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚ
+ ತುರ್ಥಿ (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ಷಷ್ಠಿ
+SUMMARY:ಶುಕ್ಲ · Panchami/Shashti
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260422
 UID:2026-04-22-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಷಷ್ಠಿ (6)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, Panch
+ ami/Shashti (5/6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ಸಪ್ತಮಿ
+SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260423
 UID:2026-04-23-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಸಪ್ತಮಿ (7)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಸ
+ ಪ್ತಮಿ (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ಅಷ್ಟಮಿ
+SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260424
 UID:2026-04-24-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಅಷ್ಟಮಿ (8)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಅ
+ ಷ್ಟಮಿ (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ನವಮಿ
+SUMMARY:ಶುಕ್ಲ · ನವಮಿ
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260425
 UID:2026-04-25-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ನವಮಿ (9)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ನ
+ ವಮಿ (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ದಶಮಿ
+SUMMARY:ಶುಕ್ಲ · ದಶಮಿ
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260426
 UID:2026-04-26-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ದಶಮಿ (10)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
+ ಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ದ್ವಾದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260427
 UID:2026-04-27-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ದ್ವಾದಶಿ (12)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಏ
+ ಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ತ್ರಯೋದಶಿ
+SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260428
 UID:2026-04-28-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ತ್ರಯೋದಶಿ (13)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ
+ ್ವಾದಶಿ (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bengaluru Karaga  |  Unknown · ಪೂರ್ಣಿಮೆ
+SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
 UID:2026-04-29-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nU
- nknown ಮಾಸ\nUnknown ಪಕ್ಷ\, ಪೂರ್ಣಿಮೆ (15)\n
- ಹಬ್ಬ: Bengaluru Karaga
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತ
+ ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bengaluru Karaga  |  ಕೃಷ್ಣ · ಪ್ರತಿಪದ
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260430
+UID:2026-04-30-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚ
+ ತುರ್ದಶಿ (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಪೂರ್ಣಿಮೆ
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260501
+UID:2026-05-01-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಪ
+ ೂರ್ಣಿಮೆ (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260502
 UID:2026-05-02-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
- ್ರತಿಪದ (1)\nಹಬ್ಬ: Bengaluru Karaga
+ ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -464,30 +492,40 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
+SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
 UID:2026-05-06-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
- ೃತೀಯ (3)
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
+ ಂಚಮಿ (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
+SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260507
 UID:2026-05-07-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
- ತುರ್ಥಿ (4)
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ
+ ಂಚಮಿ (5)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260508
+UID:2026-05-08-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಷ
+ ಷ್ಠಿ (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260508
-UID:2026-05-08-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260509
+UID:2026-05-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಸ
  ಪ್ತಮಿ (7)
@@ -495,9 +533,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260509
-UID:2026-05-09-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260510
+UID:2026-05-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅ
  ಷ್ಟಮಿ (8)
@@ -505,19 +543,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260510
-UID:2026-05-10-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260511
+UID:2026-05-11-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ನ
  ವಮಿ (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260512
+UID:2026-05-12-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
+ ಶಮಿ (10)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260511
-UID:2026-05-11-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260513
+UID:2026-05-13-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಏ
  ಕಾದಶಿ (11)
@@ -525,82 +573,62 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260512
-UID:2026-05-12-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+UID:2026-05-14-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ
  ್ವಾದಶಿ (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260513
-UID:2026-05-13-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
- ್ರಯೋದಶಿ (13)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260514
-UID:2026-05-14-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
- ತುರ್ದಶಿ (14)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
+SUMMARY:ಕೃಷ್ಣ · Trayodashi/Chaturdashi
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260515
 UID:2026-05-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ
- ್ರಯೋದಶಿ (13)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260516
-UID:2026-05-16-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚ
- ತುರ್ದಶಿ (14)
+ ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, Trayo
+ dashi/Chaturdashi (13/14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260517
-UID:2026-05-17-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260516
+UID:2026-05-16-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
  ಋತು\nವೈಶಾಖ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅ
  ಮಾವಾಸ್ಯೆ (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260518
-UID:2026-05-18-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಅ
- ಷ್ಟಮಿ (8)
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260517
+UID:2026-05-17-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಶು
+ ಕ್ಲ ಪಕ್ಷ\, ಪ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ನವಮಿ
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260518
+UID:2026-05-18-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಶು
+ ಕ್ಲ ಪಕ್ಷ\, ದ್ವಿತೀಯ (2)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260519
 UID:2026-05-19-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವಸಂತ 
- ಋತು\nವೈಶಾಖ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ನ
- ವಮಿ (9)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಶು
+ ಕ್ಲ ಪಕ್ಷ\, ತೃತೀಯ (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -674,13 +702,13 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sankranti  |  ಶುಕ್ಲ · ಏಕಾದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260527
 UID:2026-05-27-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಶು
- ಕ್ಲ ಪಕ್ಷ\, ಏಕಾದಶಿ (11)\nಹಬ್ಬ: Sankranti
+ ಕ್ಲ ಪಕ್ಷ\, ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -724,140 +752,10 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unknown · ದ್ವಿತೀಯ
+SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260601
 UID:2026-06-01-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ದ್ವಿತೀಯ (2)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260602
-UID:2026-06-02-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ತೃತೀಯ (3)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260603
-UID:2026-06-03-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಚತುರ್ಥಿ (4)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260604
-UID:2026-06-04-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಪಂಚಮಿ (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಷಷ್ಠಿ
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260605
-UID:2026-06-05-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಷಷ್ಠಿ (6)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260606
-UID:2026-06-06-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಸಪ್ತಮಿ (7)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260607
-UID:2026-06-07-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ನವಮಿ
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260608
-UID:2026-06-08-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ನವಮಿ (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ದಶಮಿ
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260609
-UID:2026-06-09-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ದಶಮಿ (10)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260610
-UID:2026-06-10-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ದ್ವಾದಶಿ (12)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260611
-UID:2026-06-11-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ತ್ರಯೋದಶಿ (13)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260612
-UID:2026-06-12-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಚತುರ್ದಶಿ (14)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unknown · ಪೂರ್ಣಿಮೆ
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260613
-UID:2026-06-13-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nUnknown
-  ಪಕ್ಷ\, ಪೂರ್ಣಿಮೆ (15)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260614
-UID:2026-06-14-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
  ಷ್ಣ ಪಕ್ಷ\, ಪ್ರತಿಪದ (1)
@@ -865,9 +763,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ದ್ವಿತೀಯ
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260615
-UID:2026-06-15-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260602
+UID:2026-06-02-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
  ಷ್ಣ ಪಕ್ಷ\, ದ್ವಿತೀಯ (2)
@@ -875,12 +773,142 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260616
-UID:2026-06-16-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260603
+UID:2026-06-03-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
  ಷ್ಣ ಪಕ್ಷ\, ತೃತೀಯ (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260604
+UID:2026-06-04-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಚತುರ್ಥಿ (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260605
+UID:2026-06-05-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಪಂಚಮಿ (5)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260606
+UID:2026-06-06-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಷಷ್ಠಿ (6)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260607
+UID:2026-06-07-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಸಪ್ತಮಿ (7)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260608
+UID:2026-06-08-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಅಷ್ಟಮಿ (8)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260609
+UID:2026-06-09-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ನವಮಿ (9)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260610
+UID:2026-06-10-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ದಶಮಿ (10)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260611
+UID:2026-06-11-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಏಕಾದಶಿ (11)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260612
+UID:2026-06-12-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ದ್ವಾದಶಿ (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260613
+UID:2026-06-13-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ತ್ರಯೋದಶಿ (13)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260614
+UID:2026-06-14-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಚತುರ್ದಶಿ (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260615
+UID:2026-06-15-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಅಧಿಕ ಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃ
+ ಷ್ಣ ಪಕ್ಷ\, ಅಮಾವಾಸ್ಯೆ (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · Pratipada/Dvitiya
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260616
+UID:2026-06-16-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, Pratipada/Dvitiya (
+ 1/2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -888,229 +916,220 @@ SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260617
 UID:2026-06-17-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ತೃತೀಯ (3)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತೃತೀಯ (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260618
 UID:2026-06-18-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಪಂಚಮಿ (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260619
-UID:2026-06-19-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ತೃತೀಯ (3)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260620
-UID:2026-06-20-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಚತುರ್ಥಿ (4)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚತುರ್ಥ
+ ಿ (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260621
-UID:2026-06-21-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಪಂಚಮಿ (5)
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260619
+UID:2026-06-19-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಪಂಚಮಿ (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260622
-UID:2026-06-22-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಚತುರ್ಥಿ (4)
+SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260620
+UID:2026-06-20-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಷಷ್ಠಿ (6)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260623
-UID:2026-06-23-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಸಪ್ತಮಿ (7)
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260621
+UID:2026-06-21-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಸಪ್ತಮಿ 
+ (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260624
-UID:2026-06-24-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಅಷ್ಟಮಿ (8)
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260622
+UID:2026-06-22-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಅಷ್ಟಮಿ 
+ (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ನವಮಿ
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260625
-UID:2026-06-25-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ನವಮಿ (9)
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260623
+UID:2026-06-23-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ನವಮಿ (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದಶಮಿ
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260626
-UID:2026-06-26-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ದಶಮಿ (10)
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260624
+UID:2026-06-24-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260627
-UID:2026-06-27-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಏಕಾದಶಿ (11)
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+UID:2026-06-25-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಏಕಾದಶಿ 
+ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260628
-UID:2026-06-28-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ದ್ವಾದಶಿ (12)
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260626
+UID:2026-06-26-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ದ್ವಾದಶ
+ ಿ (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260629
-UID:2026-06-29-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ತ್ರಯೋದಶಿ (13)
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260627
+UID:2026-06-27-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ತ್ರಯೋದ
+ ಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260630
-UID:2026-06-30-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಚತುರ್ದಶಿ (14)
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260628
+UID:2026-06-28-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಚತುರ್ದ
+ ಶಿ (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260701
-UID:2026-07-01-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಶುಕ್ಲ ಪ
- ಕ್ಷ\, ಪಂಚಮಿ (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260702
-UID:2026-07-02-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಚತುರ್ಥಿ (4)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260703
-UID:2026-07-03-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಪಂಚಮಿ (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260704
-UID:2026-07-04-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಷಷ್ಠಿ (6)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260705
-UID:2026-07-05-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಸಪ್ತಮಿ (7)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260706
-UID:2026-07-06-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260707
-UID:2026-07-07-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ನವಮಿ (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260708
-UID:2026-07-08-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ದಶಮಿ (10)
+SUMMARY:ಶುಕ್ಲ · ಪೂರ್ಣಿಮೆ
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260629
+UID:2026-06-29-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, ಪೂರ್ಣಿ
+ ಮೆ (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260630
+UID:2026-06-30-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ್ರತಿಪ
+ ದ (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260701
+UID:2026-07-01-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪ್ರತಿಪ
+ ದ (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260702
+UID:2026-07-02-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ್ವಿತೀ
+ ಯ (2)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260703
+UID:2026-07-03-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತೃತೀಯ (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260704
+UID:2026-07-04-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚತುರ್ಥ
+ ಿ (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260705
+UID:2026-07-05-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಪಂಚಮಿ (5)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260706
+UID:2026-07-06-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಷಷ್ಠಿ (6)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260707
+UID:2026-07-07-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಸಪ್ತಮಿ 
+ (7)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · Ashtami/Navami
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260708
+UID:2026-07-08-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, Ashtami/Navami (8/9
+ )
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260709
 UID:2026-07-09-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಪ್ರತಿಪದ (1)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1118,9 +1137,9 @@ SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260710
 UID:2026-07-10-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಏಕಾದಶಿ (11)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಏಕಾದಶಿ 
+ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1128,9 +1147,9 @@ SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
 UID:2026-07-11-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ದ್ವಾದಶಿ (12)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ದ್ವಾದಶ
+ ಿ (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,9 +1157,9 @@ SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
 UID:2026-07-12-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ತ್ರಯೋದಶಿ (13)
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ತ್ರಯೋದ
+ ಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,16 +1167,46 @@ SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260713
 UID:2026-07-13-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಚತುರ್ದ
+ ಶಿ (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260714
+UID:2026-07-14-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\n ಋತು\nN
+ ija Jyeshtha ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, ಅಮಾವಾಸ
+ ್ಯೆ (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260715
+UID:2026-07-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಜ್ಯೇಷ್ಠ ಮಾಸ\nಕೃಷ್ಣ ಪ
- ಕ್ಷ\, ಚತುರ್ದಶಿ (14)
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
+ , ಪ್ರತಿಪದ (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+UID:2026-07-16-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
+ , ದ್ವಿತೀಯ (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260715
-UID:2026-07-15-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260717
+UID:2026-07-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
  , ತೃತೀಯ (3)
@@ -1165,32 +1214,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260716
-UID:2026-07-16-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
- , ಚತುರ್ಥಿ (4)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260717
-UID:2026-07-17-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
- , ಪಂಚಮಿ (5)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260718
 UID:2026-07-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
- , ಷಷ್ಠಿ (6)
+ , ಚತುರ್ಥಿ (4)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1284,6 +1313,16 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260728
+UID:2026-07-28-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\
+ , ಚತುರ್ದಶಿ (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಪೂರ್ಣಿಮೆ
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260728
@@ -1294,13 +1333,13 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
+SUMMARY:ಕೃಷ್ಣ · ಪ್ರತಿಪದ
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260730
 UID:2026-07-30-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
- , ಅಷ್ಟಮಿ (8)
+ , ಪ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1354,50 +1393,70 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ದ್ವಿತೀಯ
+SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 UID:2026-08-05-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
- , ದ್ವಿತೀಯ (2)
+ , ಸಪ್ತಮಿ (7)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+UID:2026-08-06-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
+ , ಅಷ್ಟಮಿ (8)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+UID:2026-08-07-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
+ , ನವಮಿ (9)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260808
+UID:2026-08-08-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
+ ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
+ , ದಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260806
-UID:2026-08-06-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260809
+UID:2026-08-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
  , ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260807
-UID:2026-08-07-panchanga-kn@ganesha-project
+SUMMARY:ಕೃಷ್ಣ · Dvadashi/Trayodashi
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260810
+UID:2026-08-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
- , ದ್ವಾದಶಿ (12)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260808
-UID:2026-08-08-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
- ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
- , ತ್ರಯೋದಶಿ (13)
+ , Dvadashi/Trayodashi (12/13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260809
-UID:2026-08-09-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+UID:2026-08-11-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
  , ಚತುರ್ದಶಿ (14)
@@ -1405,9 +1464,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260810
-UID:2026-08-10-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260812
+UID:2026-08-12-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಗ್ರೀ
  ಷ್ಮ ಋತು\nಆಷಾಢ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\
  , ಅಮಾವಾಸ್ಯೆ (15)
@@ -1424,10 +1483,20 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260814
 UID:2026-08-14-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
+ ದ್ವಿತೀಯ (2)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260815
+UID:2026-08-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ತೃತೀಯ (3)
@@ -1435,9 +1504,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260815
-UID:2026-08-15-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+UID:2026-08-16-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಚತುರ್ಥಿ (4)
@@ -1445,9 +1514,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260816
-UID:2026-08-16-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260817
+UID:2026-08-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಪಂಚಮಿ (5)
@@ -1455,9 +1524,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260817
-UID:2026-08-17-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260818
+UID:2026-08-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಷಷ್ಠಿ (6)
@@ -1465,9 +1534,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260818
-UID:2026-08-18-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+UID:2026-08-19-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಸಪ್ತಮಿ (7)
@@ -1475,39 +1544,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260819
-UID:2026-08-19-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
- ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ನವಮಿ
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260820
 UID:2026-08-20-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
- ನವಮಿ (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260821
-UID:2026-08-21-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಅಷ್ಟಮಿ (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ನವಮಿ
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-UID:2026-08-22-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260821
+UID:2026-08-21-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ನವಮಿ (9)
@@ -1515,9 +1564,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದಶಮಿ
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260823
-UID:2026-08-23-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260822
+UID:2026-08-22-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ದಶಮಿ (10)
@@ -1525,9 +1574,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260824
-UID:2026-08-24-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260823
+UID:2026-08-23-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
  ಏಕಾದಶಿ (11)
@@ -1535,12 +1584,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260824
+UID:2026-08-24-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
+ ದ್ವಾದಶಿ (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
 UID:2026-08-25-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\, 
- ದ್ವಾದಶಿ (12)
+ ತ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1574,43 +1633,43 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+SUMMARY:ಕೃಷ್ಣ · Purvabadrapada
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
 UID:2026-08-29-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, Pu
+ rvabadrapada (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+UID:2026-08-30-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ಷಷ್ಠಿ (6)
+ ದ್ವಿತೀಯ (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-UID:2026-08-30-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260831
+UID:2026-08-31-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
  ತೃತೀಯ (3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260831
-UID:2026-08-31-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ಚತುರ್ಥಿ (4)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
+SUMMARY:ಕೃಷ್ಣ · Chaturthi/Panchami
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260901
 UID:2026-09-01-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ಪಂಚಮಿ (5)
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, Ch
+ aturthi/Panchami (4/5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1634,61 +1693,110 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna Janmashtami  |  ಕೃಷ್ಣ · ದಶಮಿ
+SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260904
 UID:2026-09-04-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ದಶಮಿ (10)\nಹಬ್ಬ: Krishna Janmashtami
+ ಅಷ್ಟಮಿ (8)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260905
+UID:2026-09-05-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
+ ನವಮಿ (9)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260906
+UID:2026-09-06-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
+ ದಶಮಿ (10)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260905
-UID:2026-09-05-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+UID:2026-09-07-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
  ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260906
-UID:2026-09-06-panchanga-kn@ganesha-project
+SUMMARY:ಕೃಷ್ಣ · Dvadasi
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+UID:2026-09-08-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ದ್ವಾದಶಿ (12)
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, Dv
+ adasi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260907
-UID:2026-09-07-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260909
+UID:2026-09-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
  ತ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Krishna Janmashtami  |  ಕೃಷ್ಣ · ಚತುರ್ದಶ
- ಿ
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260908
-UID:2026-09-08-panchanga-kn@ganesha-project
+SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+UID:2026-09-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
- ಚತುರ್ದಶಿ (14)\nಹಬ್ಬ: Krishna Janmashtami
+ ಚತುರ್ದಶಿ (14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260911
+UID:2026-09-11-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಶ್ರಾವಣ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\, 
+ ಅಮಾವಾಸ್ಯೆ (15)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260912
+UID:2026-09-12-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ಪ್ರತಿಪದ (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260913
+UID:2026-09-13-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ದ್ವಿತೀಯ (2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260912
-UID:2026-09-12-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+UID:2026-09-14-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ತೃತೀಯ (3)
@@ -1696,9 +1804,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260913
-UID:2026-09-13-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+UID:2026-09-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಚತುರ್ಥಿ (4)
@@ -1706,9 +1814,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260914
-UID:2026-09-14-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+UID:2026-09-16-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಪಂಚಮಿ (5)
@@ -1716,9 +1824,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260915
-UID:2026-09-15-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+UID:2026-09-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಷಷ್ಠಿ (6)
@@ -1726,32 +1834,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260916
-UID:2026-09-16-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಸಪ್ತಮಿ (7)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260917
-UID:2026-09-17-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260918
 UID:2026-09-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಚತುರ್ದಶಿ (14)
+  ಸಪ್ತಮಿ (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1785,43 +1873,43 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
+SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260922
 UID:2026-09-22-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಷಷ್ಠಿ (6)
+  ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
+SUMMARY:ಶುಕ್ಲ · Dvadasi
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260923
 UID:2026-09-23-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಪಂಚಮಿ (5)
+  Dvadasi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
+SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
 UID:2026-09-24-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ದ್ವಾದಶಿ (12)
+  ತ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260925
 UID:2026-09-25-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ತ್ರಯೋದಶಿ (13)
+  ಚತುರ್ದಶಿ (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1875,10 +1963,20 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+SUMMARY:ಕೃಷ್ಣ · ಪಂಚಮಿ
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
 UID:2026-10-01-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
+  ಪಂಚಮಿ (5)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಷಷ್ಠಿ
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261002
+UID:2026-10-02-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ಷಷ್ಠಿ (6)
@@ -1886,32 +1984,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261002
-UID:2026-10-02-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+UID:2026-10-03-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ಸಪ್ತಮಿ (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261003
-UID:2026-10-03-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
- ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
-  ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ನವಮಿ
+SUMMARY:ಕೃಷ್ಣ · Ashtami/Navami
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261004
 UID:2026-10-04-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
-  ನವಮಿ (9)
+  Ashtami/Navami (8/9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1935,10 +2023,20 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
+SUMMARY:ಕೃಷ್ಣ · Dvadasi
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
 UID:2026-10-07-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
+ ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
+  Dvadasi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+UID:2026-10-08-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ತ್ರಯೋದಶಿ (13)
@@ -1946,39 +2044,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261008
-UID:2026-10-08-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261009
+UID:2026-10-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ಚತುರ್ದಶಿ (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Navaratri Begin  |  ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261009
-UID:2026-10-09-panchanga-kn@ganesha-project
+SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261010
+UID:2026-10-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nವರ್ಷ 
  ಋತು\nಭಾದ್ರಪದ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
-  ಅಮಾವಾಸ್ಯೆ (15)\nಹಬ್ಬ: Navaratri Begin
+  ಅಮಾವಾಸ್ಯೆ (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Navaratri  |  ಶುಕ್ಲ · ಪ್ರತಿಪದ
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261012
-UID:2026-10-12-panchanga-kn@ganesha-project
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261011
+UID:2026-10-11-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಪ್ರತಿಪದ (1)\nಹಬ್ಬ: Navaratri
+  ಪ್ರತಿಪದ (1)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-UID:2026-10-13-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261012
+UID:2026-10-12-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ದ್ವಿತೀಯ (2)
@@ -1986,9 +2084,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261014
-UID:2026-10-14-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261013
+UID:2026-10-13-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ತೃತೀಯ (3)
@@ -1996,9 +2094,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261015
-UID:2026-10-15-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+UID:2026-10-14-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಚತುರ್ಥಿ (4)
@@ -2006,32 +2104,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-UID:2026-10-16-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+UID:2026-10-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಪಂಚಮಿ (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
+SUMMARY:ಶುಕ್ಲ · Shashthi
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+UID:2026-10-16-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  Shashthi (6)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261017
 UID:2026-10-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಷಷ್ಠಿ (6)
+  ಸಪ್ತಮಿ (7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
+SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
 UID:2026-10-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಸಪ್ತಮಿ (7)
+  ಅಷ್ಟಮಿ (8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2045,30 +2153,20 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
+SUMMARY:ಶುಕ್ಲ · ನವಮಿ
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261020
 UID:2026-10-20-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಷಷ್ಠಿ (6)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Navaratri  |  ಶುಕ್ಲ · ನವಮಿ
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261021
-UID:2026-10-21-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ನವಮಿ (9)\nಹಬ್ಬ: Navaratri
+  ನವಮಿ (9)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದಶಮಿ
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261022
-UID:2026-10-22-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+UID:2026-10-21-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ದಶಮಿ (10)
@@ -2076,32 +2174,42 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261023
-UID:2026-10-23-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+UID:2026-10-22-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
+SUMMARY:ಶುಕ್ಲ · Dvadasi
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+UID:2026-10-23-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  Dvadasi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261024
 UID:2026-10-24-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ತೃತೀಯ (3)
+  ತ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dasara  |  ಶುಕ್ಲ · ಚತುರ್ದಶಿ
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
 UID:2026-10-25-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಚತುರ್ದಶಿ (14)\nಹಬ್ಬ: Dasara
+  ಚತುರ್ದಶಿ (14)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2125,13 +2233,13 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಕೃಷ್ಣ · ತೃತೀಯ
+SUMMARY:ಕೃಷ್ಣ · Dvitiya/Tritiya
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261028
 UID:2026-10-28-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
-  ತೃತೀಯ (3)
+  Dvitiya/Tritiya (2/3)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2195,21 +2303,50 @@ DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepawali (Amavasya)  |  ಕೃಷ್ಣ · ತ್ರಯೋದಶ
- ಿ
+SUMMARY:ಕೃಷ್ಣ · ದಶಮಿ
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261104
 UID:2026-11-04-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
-  ತ್ರಯೋದಶಿ (13)\nಹಬ್ಬ: Deepawali (Amavasya)
+  ದಶಮಿ (10)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ಏಕಾದಶಿ
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+UID:2026-11-05-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
+  ಏಕಾದಶಿ (11)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · Dvadasi
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+UID:2026-11-06-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
+  Dvadasi (12)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಕೃಷ್ಣ · ತ್ರಯೋದಶಿ
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261107
+UID:2026-11-07-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
+  ತ್ರಯೋದಶಿ (13)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಚತುರ್ದಶಿ
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261105
-UID:2026-11-05-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261108
+UID:2026-11-08-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ಚತುರ್ದಶಿ (14)
@@ -2217,39 +2354,69 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಕೃಷ್ಣ · ಅಮಾವಾಸ್ಯೆ
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261106
-UID:2026-11-06-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+UID:2026-11-09-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಕೃಷ್ಣ ಪಕ್ಷ\,
   ಅಮಾವಾಸ್ಯೆ (15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deepawali (Amavasya)  |  ಶುಕ್ಲ · ಪ್ರತಿಪದ
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261107
-UID:2026-11-07-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಆಶ್ವಯುಜ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಪ್ರತಿಪದ (1)\nಹಬ್ಬ: Deepawali (Amavasya)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deepawali\, Basava Jayanti  |  ಶುಕ್ಲ · ತೃತೀಯ
+SUMMARY:ಶುಕ್ಲ · ಪ್ರತಿಪದ
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261110
 UID:2026-11-10-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ತೃತೀಯ (3)\nಹಬ್ಬ: Deepawali\, Basava Jayanti
+  ಪ್ರತಿಪದ (1)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ದ್ವಿತೀಯ
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261111
+UID:2026-11-11-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ದ್ವಿತೀಯ (2)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ತೃತೀಯ
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+UID:2026-11-12-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ತೃತೀಯ (3)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಚತುರ್ಥಿ
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+UID:2026-11-13-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ಚತುರ್ಥಿ (4)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ಶುಕ್ಲ · ಪಂಚಮಿ
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261114
+UID:2026-11-14-panchanga-kn@ganesha-project
+DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
+ ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
+  ಪಂಚಮಿ (5)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಷಷ್ಠಿ
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261111
-UID:2026-11-11-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261115
+UID:2026-11-15-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಷಷ್ಠಿ (6)
@@ -2257,9 +2424,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಸಪ್ತಮಿ
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261112
-UID:2026-11-12-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261116
+UID:2026-11-16-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಸಪ್ತಮಿ (7)
@@ -2267,9 +2434,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261113
-UID:2026-11-13-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261117
+UID:2026-11-17-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಅಷ್ಟಮಿ (8)
@@ -2277,29 +2444,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ನವಮಿ
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261114
-UID:2026-11-14-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ನವಮಿ (9)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಅಷ್ಟಮಿ
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261115
-UID:2026-11-15-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಅಷ್ಟಮಿ (8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ನವಮಿ
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261116
-UID:2026-11-16-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261118
+UID:2026-11-18-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ನವಮಿ (9)
@@ -2307,9 +2454,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ದಶಮಿ
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261117
-UID:2026-11-17-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261119
+UID:2026-11-19-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ದಶಮಿ (10)
@@ -2317,42 +2464,22 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ಶುಕ್ಲ · ಏಕಾದಶಿ
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261118
-UID:2026-11-18-panchanga-kn@ganesha-project
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+UID:2026-11-20-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
   ಏಕಾದಶಿ (11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ದ್ವಾದಶಿ
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261119
-UID:2026-11-19-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ದ್ವಾದಶಿ (12)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ತ್ರಯೋದಶಿ
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261120
-UID:2026-11-20-panchanga-kn@ganesha-project
-DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
- ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ತ್ರಯೋದಶಿ (13)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ಶುಕ್ಲ · ಚತುರ್ದಶಿ
+SUMMARY:ಶುಕ್ಲ · Dvadasi
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261121
 UID:2026-11-21-panchanga-kn@ganesha-project
 DESCRIPTION:ಪರಾಭವ ನಾಮ ಸಂವತ್ಸರ\nಶರದ್ 
  ಋತು\nಕಾರ್ತಿಕ ಮಾಸ\nಶುಕ್ಲ ಪಕ್ಷ\,
-  ಚತುರ್ದಶಿ (14)
+  Dvadasi (12)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
